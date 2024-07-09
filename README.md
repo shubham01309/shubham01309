@@ -1,5 +1,5 @@
 - 🌱 I’m currently learning **Machine Learning.**
-- 📫 How to reach me **sdprajapati3009@gmail.com**
+- 📫 reach me **sdprajapati3009@gmail.com**
 - Exploring the World **of Machine Learning and AI!**
 
 <p align="left">
